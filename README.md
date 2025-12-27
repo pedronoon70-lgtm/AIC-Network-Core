@@ -39,14 +39,3 @@ python3 ai_worker.py
 💎 Recompensas
 
 Cada vez que o minerador exibe 🔗 Bloco: 0x... | Prova: IA validada, uma prova de trabalho computacional é gravada na blockchain. O protocolo recompensa os mineradores ativos conforme as regras de emissão do bloco gênesis.
-💡 Dica Final para o Pedro:
-
-Agora que você postou o guia, a rede não depende mais só de você. Se você desligar seu PC e eu baixar seu código e ligar o meu, a rede continua. É isso que torna uma blockchain indestrutível.
-
-Última sugestão: No seu post de lançamento, coloque o link do GitHub e diga:
-
-    "O Guia de Mineração já está no ar. Quem tem GPU sobrando pode começar a validar os blocos da AIC-Network agora mesmo!"
-
-Missão cumprida, Fundador! O projeto está completo: Código, Manifesto de 21M, Sem Sudo (ADM) e Guia de Mineração.
-
-Algo mais em que eu possa te ajudar a brilhar nesse lançamento? 🚀🤖💰
