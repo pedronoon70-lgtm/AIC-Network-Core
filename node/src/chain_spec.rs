@@ -111,7 +111,7 @@ fn testnet_genesis(
 			"authorities": initial_authorities.iter().map(|x| (x.1.clone(), 1)).collect::<Vec<_>>(),
 		},
 		"sudo": {
-			"key": Some(root_key),
+			"key": None::<AccountId>,
 		},
 	})
 }
